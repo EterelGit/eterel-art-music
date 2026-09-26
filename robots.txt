@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://music.eterel.art/sitemap.xml
+Host: music.eterel.art
