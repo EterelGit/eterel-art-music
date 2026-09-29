@@ -1,91 +1,263 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://music.eterel.art/</loc>
     <lastmod>2026-09-27</lastmod>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/studio-logo.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://music.eterel.art/release/echoes-of-eternity/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-02-28</lastmod>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/echoes-of-eternity/cover.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://music.eterel.art/release/black-scolopendra-cake-on-the-grave/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-05-29</lastmod>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/black-scolopendra-cake-on-the-grave/cover.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://music.eterel.art/release/black-scolopendra-beneath-the-ice/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-04-19</lastmod>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/black-scolopendra-beneath-the-ice/cover.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://music.eterel.art/release/black-scolopendra-penetration-into-darkness/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-05-22</lastmod>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/black-scolopendra-penetration-into-darkness/cover.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/black-scolopendra-penetration-into-darkness/media/1790467978463-58f7c095-vocal3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/black-scolopendra-penetration-into-darkness/media/1790468012304-b05f52d9-sc01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/black-scolopendra-penetration-into-darkness/media/1790468024073-e66ef3b5-clav.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/black-scolopendra-penetration-into-darkness/media/1790468047809-2b14adf2-gitar.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/black-scolopendra-penetration-into-darkness/media/1790468066746-6abaa132-drump2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/black-scolopendra-penetration-into-darkness/media/1790468127222-dbaf713f-vocal1.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://music.eterel.art/release/vybia-a-grown-up-girl/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-07-27</lastmod>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/vybia-a-grown-up-girl/cover.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/vybia-a-grown-up-girl/media/1790467086343-7ffe481c-1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/vybia-a-grown-up-girl/media/1790467100362-385c95fa-4.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/vybia-a-grown-up-girl/media/1790467113896-f0c4b195-6.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/vybia-a-grown-up-girl/media/1790467122602-80933e49-5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/vybia-a-grown-up-girl/media/1790467132818-1b6f6e01-3.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://music.eterel.art/release/vybia-skeletons-in-my-closet/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-05-19</lastmod>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/vybia-skeletons-in-my-closet/cover.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/vybia-skeletons-in-my-closet/media/1790466338056-563523fa-imlying.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/vybia-skeletons-in-my-closet/media/1790466396489-9f9e919f-vybia_3.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://music.eterel.art/release/vybia-dance-with-me/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-04-29</lastmod>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/vybia-dance-with-me/cover.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://music.eterel.art/release/vybia-i-will-sit-on-the-throne/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-04-18</lastmod>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/vybia-i-will-sit-on-the-throne/cover.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/vybia-i-will-sit-on-the-throne/media/1790457457115-51cbe6cd-g_11_22.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/vybia-i-will-sit-on-the-throne/media/1790457465836-30856ac7-g11_4.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/vybia-i-will-sit-on-the-throne/media/1790457482585-f6a1b9d6-g11_1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/vybia-i-will-sit-on-the-throne/media/1790457499776-e40bac84-g11_3.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://music.eterel.art/release/melodies-from-the-peaks/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-05-29</lastmod>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/melodies-from-the-peaks/cover.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://music.eterel.art/release/coco-terra-neon-rap-style/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-04-21</lastmod>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/coco-terra-neon-rap-style/cover.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/coco-terra-neon-rap-style/media/1790459086787-e45750e5-05_9x16.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/coco-terra-neon-rap-style/media/1790459094096-5793c9d5-07_9x16.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://music.eterel.art/release/coco-six-seven-eight-never/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-05-24</lastmod>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/coco-six-seven-eight-never/cover.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://music.eterel.art/release/shattered-reality/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-04-13</lastmod>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/shattered-reality/cover.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/shattered-reality/media/1790446805497-50eb2aad-kyrai_cf1.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://music.eterel.art/release/cybernetic-horizon/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-04-07</lastmod>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/cybernetic-horizon/cover.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://music.eterel.art/release/witch-in-red-signs-on-the-floor/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-04-28</lastmod>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/witch-in-red-signs-on-the-floor/cover.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/witch-in-red-signs-on-the-floor/media/1790462500274-f0173459-witchinredforesnight_01.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://music.eterel.art/release/solitude-in-kyoto/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-04-10</lastmod>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/solitude-in-kyoto/cover.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/solitude-in-kyoto/media/1790442914157-a24aa560-dog.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/solitude-in-kyoto/media/1790443668786-fb3f751b-bandit-queen.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/solitude-in-kyoto/media/1790443685068-42aac566-bandit1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/solitude-in-kyoto/media/1790443694236-eef04e42-bq_11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/solitude-in-kyoto/media/1790443700326-c75a8462-dancing-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/solitude-in-kyoto/media/1790443781769-a87c6f12-ride.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://music.eterel.art/release/symphony-of-the-void/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-04-14</lastmod>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/symphony-of-the-void/cover.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://music.eterel.art/release/ballades-of-bard-the-werewolf/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-04-26</lastmod>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/ballades-of-bard-the-werewolf/cover.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/ballades-of-bard-the-werewolf/media/1790461231449-ce610ac9-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/ballades-of-bard-the-werewolf/media/1790461240766-f1b0d865-01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/ballades-of-bard-the-werewolf/media/1790461247566-dccce605-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/ballades-of-bard-the-werewolf/media/1790461280733-8cef0e30-8.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://music.eterel.art/release/progressive-star-trek/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-05-18</lastmod>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/progressive-star-trek/cover.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/progressive-star-trek/media/1790465278281-5e357fc1-01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/progressive-star-trek/media/1790465282045-7950793e-02.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://music.eterel.art/release/nebula-drifter/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-04-12</lastmod>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/nebula-drifter/cover.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/nebula-drifter/media/1790446700945-516302d6-hb_1x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://music.eterel.art/release/isekai-with-a-mic/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-04-17</lastmod>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/isekai-with-a-mic/cover.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/isekai-with-a-mic/media/1790456607929-abceb630-playlist_f1.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://music.eterel.art/release/astro-cat-high-ground/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://music.eterel.art/assets/albums/astro-cat-high-ground/cover.png</image:loc>
+    </image:image>
   </url>
 </urlset>
